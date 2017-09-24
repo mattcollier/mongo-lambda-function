@@ -1,0 +1,10 @@
+{
+  "name": "mongo-lambda-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "bedrock": "^1.7.0",
+    "bedrock-mongodb": "^3.2.3"
+  }
+}
